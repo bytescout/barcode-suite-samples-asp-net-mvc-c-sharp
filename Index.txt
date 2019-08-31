@@ -1,0 +1,11 @@
+## Index of source code examples:
+
+\Batch read barcodes to csv with barcode reader sdk
+\Decode page by page from pdf or tiff with barcode reader sdk
+\Read barcode with barcode reader sdk
+\Read barcodes from image with barcode reader sdk
+\Read barcodes from pdf with barcode reader sdk
+\Read from live camera with barcode reader sdk
+\Split pdf by barcode with barcode reader sdk
+\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\Read from live camera with barcode reader sdk\app
